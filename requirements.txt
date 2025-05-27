@@ -1,0 +1,6 @@
+requests==2.26.0
+beautifulsoup4
+python-dotenv
+fastapi
+uvicorn
+jinja2
